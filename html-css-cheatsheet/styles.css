@@ -1,0 +1,56 @@
+body {
+  background-color: lavender;
+}
+h1 {
+  padding: 10 10 10 10;
+  font-family: verdana;
+  font-size: 30px;
+  color: Indigo;
+  text-align: center;
+  margin-top: 80px;
+}
+h2 {
+  padding: 10 10 10 10;
+  font-family: verdana;
+  font-size: 25px;
+  color: Darkmagenta;
+  text-align: center;
+}
+p {
+  font-family: verdana;
+  font-size: 12px;
+}
+th {
+  background-color: Mediumorchid;
+  color: black;
+}
+table {
+  border: 2px solid darkorchid;
+  width: 650px;
+  margin: 0 auto;
+  font-family: verdana;
+  font-size: 12px;
+}
+ul {
+  text-align: center;
+  margin-bottom: 10px
+  margin-left: 30%;
+  list-style: none;
+}
+li {
+  float: left;
+  text-transform: uppercase;
+  background-color: dimgray;
+  padding: 30px;
+  color: white;
+  vertical-align: top;
+}
+footer {
+  text-align: center;
+}
+span.code {
+  background-color: beige;
+  color: darkslategrey;
+  font-style: italic;
+  font-family: monospace;
+}
