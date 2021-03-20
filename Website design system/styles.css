@@ -1,0 +1,87 @@
+/* general CSS */
+
+h1, h2, h3 {
+  Font-Family: 'Roboto Condensed', Sans-Serif;
+  text-transform: uppercase;
+}
+p {
+  Font-Family: 'Cabin', Sans-Serif;
+  Font-Size: 16px;
+}
+ul {
+  padding: 5px;
+  margin-left: 25px;
+  list-style-type: circle;
+}
+li {
+  margin-bottom: 7px;
+}
+
+/* font styles */
+
+.cabin {
+  font-family: 'Cabin', Sans-serif;
+}
+.roboto {
+  font-family: 'Roboto Condensed', Sans-Serif;
+}
+.bold {
+  font-weight: bold;
+}
+.italic {
+  font-style: italic;
+}
+.underline {
+  text-decoration: underline;
+}
+
+/* container */
+
+.container {
+  padding: 15px;
+  margin: 5px;
+  border: 3px solid #B9B9B9;
+  border-radius: 5px;
+}
+
+/* colors part */
+
+.color-container {
+  width: 100%;
+}
+.color-panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+  }
+.blue {
+  background-color: #5BABF5;
+  color: white;
+}
+.pink {
+  background-color: #E78BEB;
+  color: black;
+}
+.mint {
+  background-color: #2DEBD2;
+  color: black;
+}
+.beige {
+  background-color: #DEB752;
+  color: black;
+}
+/* fonts part */
+
+.fonts-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.font-pannel {
+  width: 45%;
+  display: inline-block;
+}
+
+/* button styles part */
